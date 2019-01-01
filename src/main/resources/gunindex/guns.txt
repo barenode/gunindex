@@ -1,0 +1,12 @@
+CZ 75 TS|CZUB|Calibre:9x19, .40 S&W|MagazineCapacity:20, 17|Frame:STEEL|Grips:WOOD|Trigger:SA|Sights:FIXED|Length:225|BarrelLength:130|Height:150|Width:45|Weight:1270|
+CZ 97 B|CZUB|Calibre:.45 ACP|MagazineCapacity:10|Frame:STEEL|Grips:WOOD|Trigger:SA/DA|Sights:LUMINESCENT|Length:212|BarrelLength:114,8|Height:150|Width:35|Weight:1150|
+CZ P-10 C|CZUB|Calibre:9x19|MagazineCapacity:9x19 (15) .40 S&W (12)|Frame:Polymer|Grips:|Trigger:Double action, Striker fired|Sights:Luminescent, Trithium|Length:187|BarrelLength:102|Height:132|Width:32|Weight:760|
+CZ P-09 KADET|CZUB|Calibre:.22 LR|MagazineCapacity:10|Frame:Polymer|Grips:|Trigger:SA/DA|Sights:Adjustable|Length:206|BarrelLength:120|Height:147|Width:37|Weight:640|
+CZ SHADOW 2 URBAN GREY|CZUB|Calibre:9x19|MagazineCapacity:19|Frame:Steel|Grips:Aluminium|Trigger:SA/DA|Sights:Adjustable|Length:217|BarrelLength:125|Height:157|Width:34|Weight:1330|
+CZ 2075 D RAMI|CZUB|Calibre:9x19|MagazineCapacity:10 (14)|Frame:Aluminium|Grips:Rubber|Trigger:SA/DA|Sights:Luminescent|Length:168|BarrelLength:74|Height:120|Width:32|Weight:700|
+G17|GLOCK|Calibre:9 mm Luger|MagazineCapacity:17|Frame:Polymer|Grips:|Trigger:Safe Action|Sights:|Length:204|BarrelLength:114|Height:139|Width:32|Weight:705|
+G19|GLOCK|Calibre:9 mm Luger|MagazineCapacity:15|Frame:Polymer|Grips:|Trigger:Safe Action|Sights:|Length:187|BarrelLength:102|Height:128|Width:32|Weight:670|
+G20|GLOCK|Calibre:10 mm Auto|MagazineCapacity:15|Frame:Polymer|Grips:|Trigger:Safe Action|Sights:|Length:205|BarrelLength:117:|Height:140|Width:34|Weight:870|
+G21|GLOCK|Calibre:45 Auto|MagazineCapacity:13|Frame:Polymer|Grips:|Trigger:Safe Action|Sights:|Length:205|BarrelLength:117|Height:140|Width:34|Weight:830|
+10|SIG SAUER|Calibre:9 mm Luger|MagazineCapacity:|Frame:Stainless Steel|Grips:Target Walnut|Trigger:SAO|Sights:|Length:214|BarrelLength:127|Height:135|Width:41|Weight:1120|
+P220|SIG SAUER|Calibre:45 Auto|MagazineCapacity:8|Frame:Alloy|Grips:Black G10|Trigger:DA/SA|Sights:X-RAY3 Day/Night Sights|Length:196|BarrelLength:112|Height:140|Width:34|Weight:862 |
